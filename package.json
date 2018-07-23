@@ -1,0 +1,18 @@
+{
+  "name": "ng-hyperapp",
+  "author": "https://github.com/daymosik/ng-hyperapp/graphs/contributors",
+  "version": "0.0.1",
+  "main": "ng-hyperapp.js",
+  "description": "Use Hyperapp Components in Angular",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daymosik/ng-hyperapp.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "angular": "< 2.0.0",
+    "hyperapp": "< 2.0.0"
+  },
+  "devDependencies": {
+  }
+}
